@@ -38,7 +38,7 @@ main {
 	border-width: 1px; 
 	position: relative;
 	top:30px;
-	display: inline-block;
+	float: left;
 
 }
 
@@ -52,8 +52,8 @@ aside {
 	border-color: lightgrey;
 	border-width: 1px; 
 	position: relative;
-	top: 25px;
-	display: inline-block;
+	top: 30px;
+	float: right;
 
 }
 
